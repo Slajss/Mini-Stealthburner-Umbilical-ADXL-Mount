@@ -7,7 +7,9 @@ There was no convinient way to mount my Fysetc Portable Input shaper.
 <br />
 
 Replace umbilical PCB mount upper mounting screws with M3x35
+Mount sensor by screwing M3x8 directly in the plastic
 <br />
+
 If you plan running your printer with this mount attached, consider printing it with ABS or ASA since the chamber can reach 60°C
 <br /> 
 
