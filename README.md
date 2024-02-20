@@ -1,7 +1,8 @@
 
 # Mini-Stealthburner-Umbilical-ADXL-Mount
 ADXL/PIS mount for MiniStealthburner on Voron V0.2 R1
-![alt text](https://github.com/Slajss/Mini-Stealthburner-Umbilical-ADXL-Mount/blob/main/Picture/Mount.png)?raw=true)
+![alt text](https://github.com/Slajss/Mini-Stealthburner-Umbilical-ADXL-Mount/blob/main/Picture/Mount.png)
+<br />
 There was no convinient way to mount my Fysetc Portable Input shaper.
 <br />
 
