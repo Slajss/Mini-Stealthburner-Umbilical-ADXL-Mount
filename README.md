@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://media.printables.com/media/prints/766044/images/5965348_207c6e75-ccea-4b69-ac39-1b9efbfff120_8c28ae9d-1599-4cf2-a4c2-970ab8685dc1/thumbs/inside/1280x960/png/snimek-obrazovky-2024-02-15-140609.webp))
+
 # Mini-Stealthburner-Umbilical-ADXL-Mount
 ADXL/PIS mount for MiniStealthburner on Voron V0.2 R1
 
