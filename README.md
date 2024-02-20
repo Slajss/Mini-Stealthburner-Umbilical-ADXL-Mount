@@ -14,3 +14,4 @@ If you plan running your printer with this mount attached, consider printing it 
 Added ADXL mounting option, but is not tested, since I got no generic ADXL accelerometer :-)
 
 Feel free to remix this mount to suit your desired accelerometer - step file attached.
+https://www.printables.com/model/766044-input-shaper-mount-for-voron-v02r1
